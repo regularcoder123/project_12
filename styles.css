@@ -1,0 +1,15 @@
+body{
+    background-color: yellow;
+    background-image: url(background_img.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: scroll;
+
+}
+img{
+    width: 500px;
+}
+p{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
